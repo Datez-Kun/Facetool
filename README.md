@@ -2,18 +2,16 @@
 Tools Terbaru Kumpulan Dark Fb 
 
 
-# Install 
+## FaceTools
 
-$ pkg update 
 
-$ pkg upgrade 
-
+### Install
+```
+$ pkg install python2
 $ pkg install git
-
+$ pip2 install uncompyle6
+$ pip2 install mechanize
 $ git clone https://github.com/Mr-XsZ/Facetool
-
 $ cd Facetool
-
-$ bash install.sh
-
-<a href="https://ibb.co/4F2bRNR">
+$ python2 fb.py
+```
