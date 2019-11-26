@@ -17,3 +17,4 @@ $ python2 fb.py
 ```
 
 ## Fitur
+<img src="https://ibb.co/bgzpWjZ"/>
