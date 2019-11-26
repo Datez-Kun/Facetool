@@ -15,3 +15,5 @@ $ git clone https://github.com/Mr-XsZ/Facetool
 $ cd Facetool
 $ python2 fb.py
 ```
+
+## Fitur
