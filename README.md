@@ -13,7 +13,7 @@ $ pip2 install uncompyle6
 $ pip2 install mechanize
 $ git clone https://github.com/Mr-XsZ/Facetool
 $ cd Facetool
-$ python2 fb.py
+$ python2 facetool.py
 ```
 
 ## Fitur
